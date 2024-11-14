@@ -1,0 +1,2 @@
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\Definitions.StrategyPattern.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Source\StrategyPattern\StrategyPattern.h

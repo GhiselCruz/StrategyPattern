@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StrategyPattern.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9C9919EF-4C5E-41AD-9418-EF0F14422F97}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StrategyPattern.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StrategyPatternEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{66BF03DA-B3E4-4BED-A340-52A2D73FB7C5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StrategyPattern">
+      <UniqueIdentifier>{16A0062B-BD91-4018-92B3-0BE8D53E565D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\StrategyPattern\Enemigo.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\Enemigo.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StrategyPattern\EnemigoCocodrilo.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\EnemigoCocodrilo.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StrategyPattern\EnemigoCuervo.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\EnemigoCuervo.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StrategyPattern\EnemigoLeon.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\EnemigoLeon.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StrategyPattern\EstrategiaMovimientoDos.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\EstrategiaMovimientoDos.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StrategyPattern\EstrategiaMovimientoTres.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\EstrategiaMovimientoTres.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StrategyPattern\EstrategiaMovimientoUno.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\EstrategiaMovimientoUno.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StrategyPattern\IEstrategias.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\IEstrategias.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\StrategyPattern\StrategyPattern.Build.cs">
+      <Filter>Source\StrategyPattern</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StrategyPattern\StrategyPattern.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\StrategyPattern.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StrategyPattern\StrategyPatternCharacter.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\StrategyPatternCharacter.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StrategyPattern\StrategyPatternGameMode.cpp">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StrategyPattern\StrategyPatternGameMode.h">
+      <Filter>Source\StrategyPattern</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

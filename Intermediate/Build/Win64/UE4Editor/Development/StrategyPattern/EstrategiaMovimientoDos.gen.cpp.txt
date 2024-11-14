@@ -1,0 +1,7 @@
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\Definitions.StrategyPattern.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Source\StrategyPattern/EstrategiaMovimientoDos.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Source\StrategyPattern\IEstrategias.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Inc\StrategyPattern\IEstrategias.generated.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Inc\StrategyPattern\EstrategiaMovimientoDos.generated.h

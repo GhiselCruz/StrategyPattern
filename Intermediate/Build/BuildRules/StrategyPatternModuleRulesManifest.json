@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\StrategyPattern\\Source\\StrategyPattern\\StrategyPattern.Build.cs",
+		"C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\StrategyPattern\\Source\\StrategyPattern.Target.cs",
+		"C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\StrategyPattern\\Source\\StrategyPatternEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

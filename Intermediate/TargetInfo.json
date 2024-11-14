@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StrategyPattern",
+			"Path": "C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\StrategyPattern\\Source\\StrategyPattern.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StrategyPatternEditor",
+			"Path": "C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\StrategyPattern\\Source\\StrategyPatternEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

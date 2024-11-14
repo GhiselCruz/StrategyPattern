@@ -1,0 +1,33 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StrategyPattern-1435.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\StrategyPatternEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\Enemigo.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EnemigoCocodrilo.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EnemigoCuervo.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EnemigoLeon.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EstrategiaMovimientoDos.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EstrategiaMovimientoTres.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EstrategiaMovimientoUno.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\IEstrategias.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\StrategyPattern.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\StrategyPatternCharacter.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\StrategyPatternGameMode.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\Enemigo.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EnemigoCocodrilo.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EnemigoCuervo.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EnemigoLeon.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EstrategiaMovimientoDos.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EstrategiaMovimientoTres.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\EstrategiaMovimientoUno.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\IEstrategias.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\StrategyPattern.init.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\StrategyPatternCharacter.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\StrategyPatternGameMode.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\Default.rc2.res"
+/OUT:"C:\Users\Ghisel Cruz\Documents\Unreal Projects\StrategyPattern\Intermediate\Build\Win64\UE4Editor\Development\StrategyPattern\UE4Editor-StrategyPattern-1435.lib"
